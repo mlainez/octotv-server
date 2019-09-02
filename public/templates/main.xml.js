@@ -39,6 +39,9 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
    <lockup videoURL="https://5a0b00d270652.streamlock.net/live/tvlux-live/playlist.m3u8">
    <img src="${this.BASEURL}images/tvlux.png" width="500" height="308" />
    </lockup>
+   <lockup videoURL="https://5a0b00d270652.streamlock.net/live/vedia-live/playlist.m3u8">
+   <img src="${this.BASEURL}images/vedia.png" width="500" height="308" />
+   </lockup>
    
    </section>
    </carousel>
