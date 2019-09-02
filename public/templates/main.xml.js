@@ -18,6 +18,9 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
    <lockup videoURL="http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8">
    <img src="${this.BASEURL}images/canalzoom.png" width="500" height="308" />
    </lockup>
+   <lockup videoURL="https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8">
+   <img src="${this.BASEURL}images/ln24.png" width="500" height="308" />
+   </lockup>
    <lockup videoURL="https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8">
    <img src="${this.BASEURL}images/matele.png" width="500" height="308" />
    </lockup>
